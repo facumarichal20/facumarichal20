@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm Facundo Marichal 👋
 
-<!--
-**facumarichal20/facumarichal20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | Computer Engineering Student
 
-Here are some ideas to get you started:
+I'm a QA Automation Engineer from Montevideo, Uruguay, focused on building reliable and scalable automated testing solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with:
+
+- Playwright
+- Selenium WebDriver
+- API Testing
+- Java & JavaScript
+- CI/CD pipelines
+- Agile/Scrum environments
+
+I enjoy combining software engineering principles with quality assurance to improve product reliability, reduce regression effort, and optimize delivery pipelines.
+
+---
+
+## 🚀 Tech Stack
+
+### Automation & Testing
+- Playwright
+- Selenium WebDriver
+- WebdriverIO
+- Postman
+- JUnit
+- REST API Testing
+
+### Languages
+- Java
+- JavaScript
+- TypeScript
+- Python
+- C / C++
+- SQL
+
+### Tools & DevOps
+- Git & GitHub
+- Jenkins
+- CI/CD
+- Jira
+- Docker (basic)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Playwright architecture
+- TypeScript for scalable automation
+- GitHub Actions
+- AI applications for QA Automation
+- Docker & cloud fundamentals
+
+---
+
+## 💡 Interests
+
+- Software Quality Engineering
+- SDET practices
+- Test Automation Frameworks
+- API & Integration Testing
+- Generative AI for QA
+- Developer Productivity
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/facundo-marichal-camejo-5133aa258/
+- Email: facundomarichal20@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facumarichal20&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facumarichal20&layout=compact)
